@@ -18,3 +18,21 @@ Users can browse real-time news by categories, search for specific topics, and e
 - 🌐 Responsive design for mobile and desktop
 - 📅 Shows publish date and source
 
+📁 Folder Structure
+
+news-app/
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── App.js
+│   └── index.js
+├── .env
+├── package.json
+└── README.md
+
+🙌 Acknowledgements
+
+NewsAPI
+
+ReactJS
